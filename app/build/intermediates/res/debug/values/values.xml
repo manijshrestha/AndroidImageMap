@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/C:/Users/mshrestha/Manij/AndroidStudioProjects/AndroidImageMap/app/src/main/res/values/attrs.xml -->
+    <eat-comment />
+
+    <declare-styleable name="ImageMap">
+        <attr name="map" format="string" />
+        <attr name="fitImageToScreen" format="boolean" />
+        <attr name="scaleFromOriginal" format="boolean" />
+        <attr name="maxSizeFactor" format="float" />
+    </declare-styleable>
+    <!-- From: file:/C:/Users/mshrestha/Manij/AndroidStudioProjects/AndroidImageMap/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="app_name">ImageMap</string>
+
+</resources>

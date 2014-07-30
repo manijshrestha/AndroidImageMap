@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="C:\Users\mshrestha\Manij\AndroidStudioProjects\AndroidImageMap\app\src\main\res" >
+            <file
+                name="icon"
+                path="C:\Users\mshrestha\Manij\AndroidStudioProjects\AndroidImageMap\app\src\main\res\drawable-hdpi\icon.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="icon"
+                path="C:\Users\mshrestha\Manij\AndroidStudioProjects\AndroidImageMap\app\src\main\res\drawable-ldpi\icon.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="icon"
+                path="C:\Users\mshrestha\Manij\AndroidStudioProjects\AndroidImageMap\app\src\main\res\drawable-mdpi\icon.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="gridmap"
+                path="C:\Users\mshrestha\Manij\AndroidStudioProjects\AndroidImageMap\app\src\main\res\drawable-nodpi\gridmap.png"
+                qualifiers="nodpi-v4"
+                type="drawable" />
+            <file
+                name="usamap"
+                path="C:\Users\mshrestha\Manij\AndroidStudioProjects\AndroidImageMap\app\src\main\res\drawable-nodpi\usamap.png"
+                qualifiers="nodpi-v4"
+                type="drawable" />
+            <file
+                name="main"
+                path="C:\Users\mshrestha\Manij\AndroidStudioProjects\AndroidImageMap\app\src\main\res\layout\main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                path="C:\Users\mshrestha\Manij\AndroidStudioProjects\AndroidImageMap\app\src\main\res\values\attrs.xml"
+                qualifiers="" >
+                <declare-styleable name="ImageMap" >
+                    <attr
+                        name="map"
+                        format="string" />
+                    <attr
+                        name="fitImageToScreen"
+                        format="boolean" />
+                    <attr
+                        name="scaleFromOriginal"
+                        format="boolean" />
+                    <attr
+                        name="maxSizeFactor"
+                        format="float" />
+                </declare-styleable>
+            </file>
+            <file
+                path="C:\Users\mshrestha\Manij\AndroidStudioProjects\AndroidImageMap\app\src\main\res\values\strings.xml"
+                qualifiers="" >
+                <string name="app_name" >ImageMap
+                </string>
+            </file>
+            <file
+                name="maps"
+                path="C:\Users\mshrestha\Manij\AndroidStudioProjects\AndroidImageMap\app\src\main\res\xml\maps.xml"
+                qualifiers=""
+                type="xml" />
+        </source>
+        <source path="C:\Users\mshrestha\Manij\AndroidStudioProjects\AndroidImageMap\app\build\generated\res\rs\debug" />
+        <source path="C:\Users\mshrestha\Manij\AndroidStudioProjects\AndroidImageMap\app\build\generated\res\generated\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\mshrestha\Manij\AndroidStudioProjects\AndroidImageMap\app\src\debug\res" />
+    </dataSet>
+
+</merger>

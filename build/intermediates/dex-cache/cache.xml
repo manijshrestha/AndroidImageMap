@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\mshrestha\Manij\AndroidStudioProjects\AndroidImageMap\app\build\intermediates\pre-dexed\debug\support-v4-19.0.1-d4e5ddb8d5f1710074795dc52b5c913d7b03753a.jar"
+        jar="C:\Users\mshrestha\AppData\Local\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-v4\19.0.1\support-v4-19.0.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="587da9a481ffd341d2fa091704489b89845ddacd"/>
+
+</pre-dex-items>
